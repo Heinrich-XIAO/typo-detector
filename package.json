@@ -1,13 +1,11 @@
+
 {
-  "name": "typo-detecter",
-  "version": "1.0.0",
+  "name": "typo-detector",
+  "version": "0.0.1",
   "description": "This package ditects typos",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-	"repositories": {
-		"url": "https://github.com/Heinrich-XIAO/typo-detector",
-	},
   "scripts": {
     "build": "tsup"
   },
