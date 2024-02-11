@@ -5,6 +5,9 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+	"repositories": {
+		"url": "https://github.com/Heinrich-XIAO/typo-detector",
+	},
   "scripts": {
     "build": "tsup"
   },
