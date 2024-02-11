@@ -1,0 +1,20 @@
+{
+  "name": "typo-detecter",
+  "version": "1.0.0",
+  "description": "This package ditects typos",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "typo"
+  ],
+  "author": "Heinrich Xiao",
+  "license": "MIT",
+  "dependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
